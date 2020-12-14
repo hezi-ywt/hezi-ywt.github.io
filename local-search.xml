@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>博客功能完善</title>
+    <link href="/2020/12/14/day1/"/>
+    <url>/2020/12/14/day1/</url>
+    
+    <content type="html"><![CDATA[<p>今天我在昨天搭建的雏形下，主要完成以下任务：</p><p>设计了自己的版面风格，更换背景配图及颜色<br>RGB颜色对照标： <a href="https://tool.oschina.net/commons?type=3">https://tool.oschina.net/commons?type=3</a><br>图片资源：<br>壁纸<br><a href="https://wallpaperhub.app/">https://wallpaperhub.app/</a><br><a href="https://wallhaven.cc/w/2em38y">https://wallhaven.cc/w/2em38y</a><br><a href="https://unsplash.com/">https://unsplash.com/</a><br>logo：</p><p>学习实现了分类和标签功能<br>用hexo new page tags 指令后，在source下的md文件中添加layout: tags<br>其他类似<br>功能实现要在先文章先的front-matter中使用相应指令</p><p>添加了评论功能<br>参考：hexo-fluid添加utterances评论功能  <a href="https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/">https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</a></p><p>参考<br>搭建主线：<a href="https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/">https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</a><br>主题fluid配置：<a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a><br>hexo操作：<a href="https://hexo.io/zh-cn/docs/writing">https://hexo.io/zh-cn/docs/writing</a><br>hexo-fluid添加utterances评论功能 <a href="https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/">https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客搭建</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客搭建</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>我的个人BLOG诞生了</title>
     <link href="/2020/12/13/hello-world/"/>
     <url>/2020/12/13/hello-world/</url>
@@ -11,6 +36,18 @@
     <content type="html"><![CDATA[<p>身为小白的我第一次使用github上的包，在憋了一天后有了初步的BLOG雏形，但是值得做的事情都是能让你愿意一步一步来的。</p>]]></content>
     
     
+    <categories>
+      
+      <category>博客搭建</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客搭建</tag>
+      
+    </tags>
     
   </entry>
   
