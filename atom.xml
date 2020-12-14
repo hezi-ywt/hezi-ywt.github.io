@@ -6,7 +6,7 @@
   <link href="https://hezi-ywt.github.io/atom.xml" rel="self"/>
   
   <link href="https://hezi-ywt.github.io/"/>
-  <updated>2020-12-14T03:28:27.061Z</updated>
+  <updated>2020-12-14T04:39:50.087Z</updated>
   <id>https://hezi-ywt.github.io/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="https://hezi-ywt.github.io/2020/12/13/hello-world/"/>
     <id>https://hezi-ywt.github.io/2020/12/13/hello-world/</id>
     <published>2020-12-13T07:45:26.959Z</published>
-    <updated>2020-12-14T03:28:27.061Z</updated>
+    <updated>2020-12-14T04:39:50.087Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h2><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>欢迎来到我的博客</p>]]></content>
     
     
       
       
     <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客&quot;&gt;&lt;/a&gt;欢迎来到我的博客&lt;/h2&gt;&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; </summary>
+&lt;p&gt;欢迎来到我的博客&lt;/p&gt;
+</summary>
       
     
     
