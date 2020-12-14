@@ -6,7 +6,7 @@
   <link href="https://hezi-ywt.github.io/atom.xml" rel="self"/>
   
   <link href="https://hezi-ywt.github.io/"/>
-  <updated>2020-12-14T04:40:48.264Z</updated>
+  <updated>2020-12-14T10:01:48.551Z</updated>
   <id>https://hezi-ywt.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>我的个人BLOG诞生了</title>
     <link href="https://hezi-ywt.github.io/2020/12/13/hello-world/"/>
     <id>https://hezi-ywt.github.io/2020/12/13/hello-world/</id>
-    <published>2020-12-13T07:45:26.959Z</published>
-    <updated>2020-12-14T04:40:48.264Z</updated>
+    <published>2020-12-13T11:37:50.000Z</published>
+    <updated>2020-12-14T10:01:48.551Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h2>]]></content>
+    <content type="html"><![CDATA[<p>身为小白的我第一次使用github上的包，在憋了一天后有了初步的BLOG雏形，但是值得做的事情都是能让你愿意一步一步来的。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;欢迎来到我的博客&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客&quot;&gt;&lt;/a&gt;欢迎来到我的博客&lt;/h2&gt;</summary>
+    <summary type="html">&lt;p&gt;身为小白的我第一次使用github上的包，在憋了一天后有了初步的BLOG雏形，但是值得做的事情都是能让你愿意一步一步来的。&lt;/p&gt;
+</summary>
       
     
     
