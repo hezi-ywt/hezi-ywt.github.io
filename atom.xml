@@ -6,7 +6,7 @@
   <link href="https://hezi-ywt.github.io/atom.xml" rel="self"/>
   
   <link href="https://hezi-ywt.github.io/"/>
-  <updated>2020-12-14T13:30:49.557Z</updated>
+  <updated>2020-12-15T13:27:01.047Z</updated>
   <id>https://hezi-ywt.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为hexo搭建方便写作的功能</title>
+    <link href="https://hezi-ywt.github.io/2020/12/15/%E4%B8%BAhexo%E6%90%AD%E5%BB%BA%E6%96%B9%E4%BE%BF%E5%86%99%E4%BD%9C%E7%9A%84%E5%8A%9F%E8%83%BD-1/"/>
+    <id>https://hezi-ywt.github.io/2020/12/15/%E4%B8%BAhexo%E6%90%AD%E5%BB%BA%E6%96%B9%E4%BE%BF%E5%86%99%E4%BD%9C%E7%9A%84%E5%8A%9F%E8%83%BD-1/</id>
+    <published>2020-12-15T13:07:00.000Z</published>
+    <updated>2020-12-15T13:27:01.047Z</updated>
+    
+    <content type="html"><![CDATA[<h6 id="使用了hexo"><a href="#使用了hexo" class="headerlink" title="使用了hexo"></a>使用了hexo</h6>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h6 id=&quot;使用了hexo&quot;&gt;&lt;a href=&quot;#使用了hexo&quot; class=&quot;headerlink&quot; title=&quot;使用了hexo&quot;&gt;&lt;/a&gt;使用了hexo&lt;/h6&gt;</summary>
+      
+    
+    
+    
+    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="博客写作" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="博客" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo写作" scheme="https://hezi-ywt.github.io/tags/hexo%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>博客功能完善</title>

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hezi-ywt.github.io/2020/12/15/%E4%B8%BAhexo%E6%90%AD%E5%BB%BA%E6%96%B9%E4%BE%BF%E5%86%99%E4%BD%9C%E7%9A%84%E5%8A%9F%E8%83%BD-1/</loc>
+    
+    <lastmod>2020-12-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hezi-ywt.github.io/2020/12/14/day1/</loc>
     
     <lastmod>2020-12-14</lastmod>
@@ -45,10 +52,31 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/hexo%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2020-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2020-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
