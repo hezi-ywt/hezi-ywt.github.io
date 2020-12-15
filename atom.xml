@@ -6,7 +6,7 @@
   <link href="https://hezi-ywt.github.io/atom.xml" rel="self"/>
   
   <link href="https://hezi-ywt.github.io/"/>
-  <updated>2020-12-15T13:27:01.047Z</updated>
+  <updated>2020-12-15T14:24:59.614Z</updated>
   <id>https://hezi-ywt.github.io/</id>
   
   <author>
@@ -17,30 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>快速转载</title>
+    <link href="https://hezi-ywt.github.io/2020/12/15/%E8%BD%AC%E8%BD%BD/"/>
+    <id>https://hezi-ywt.github.io/2020/12/15/%E8%BD%AC%E8%BD%BD/</id>
+    <published>2020-12-15T14:06:00.000Z</published>
+    <updated>2020-12-15T14:24:59.614Z</updated>
+    
+    <content type="html"><![CDATA[<div id="article_content" class="article_content clearfix">        <link rel="stylesheet" href="https://csdnimg.cn/release/blogv2/dist/mdeditor/css/editerView/ck_htmledit_views-b5506197d8.css">                <div id="content_views" class="markdown_views prism-tomorrow-night-eighties">                    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">                        <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path>                    </svg>                    <div id="article_content" class="article_content clearfix csdn-tracking-statistics">  <div id="content_views" class="markdown_views prism-atom-one-dark">   <svg xmlns="http://www.w3.org/2000/svg">   <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block"></path>  </svg>   <div id="article_content" class="article_content csdn-tracking-statistics tracking-click">    <div class="markdown_views">     <h2 id="前言"><a name="t0"></a><a name="t0"></a><a target="_blank"></a><a target="_blank"></a>前言</h2>     <p>  对于喜欢逛CSDN的人来说，看别人的博客确实能够对自己有不小的提高，有时候看到特别好的博客想转载下载，但是不能一个字一个字的敲了，这时候我们就想快速转载别人的博客，把别人的博客移到自己的空间里面，当然有人会说我们可以收藏博客啊，就不需要转载，(⊙o⊙)… 也对。。</p>    </div>  </div> </div></div><h2 id="实现"><a name="t1"></a><a name="t1"></a><a target="_blank"></a><a target="_blank"></a>实现</h2> <p>  因为我自己当初想转载的时候却不知道该怎么转载，所以学会了之后就把方法写出来，帮助那些想转载却不知道该怎么转载的人（大神勿笑）。 <br>   我们首先打开要转载的博客，然后鼠标右键就会出现下面的菜单： <br> </p><center> <img src="https://img-blog.csdn.net/20150912104500089" alt="这里写图片描述" title=""></center> <br>   我们点击【审查元素】，就会出现当前HTML页面的代码，如下：<p></p> <p></p><center> <img src="https://img-blog.csdn.net/20150912104633872" width="548" height="353"> </center> <br>   我们选中“article_content”从图片左边我们也可以看到，博客的内容已经被我们选中了，也就是我们想要转载的内容，然后右键，就会出现下面的菜单：<p></p> <p></p><center> <img src="https://img-blog.csdn.net/20150912104903592" alt="这里写图片描述" title=""></center> <br>   我们选中【Copy as HTML】就可以把其中要转载的内容复制下来，接下来的就是粘贴了。 <br>   我们先新建一篇文章，打开markdown编辑器（因为在普通的编辑器我没有找到方法/(ㄒoㄒ)/~~），然后粘贴一下，就会出现下面的内容：<p></p> <p></p><center> <img src="https://img-blog.csdn.net/20150912105209122" width="762" height="388"></center> <br>   可以在右边看到，博客内容已经被转载了，然后发表就可以了。<p></p> <p>  <font color="red">最后特别要注意的是，我们发表的时候一定要选择【转载】，尊重原创！！</font></p> <p>转载来源 <a href="http://blog.csdn.net/bolu1234/article/details/51867099" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/bolu1234/article/details/51867099</a></p>                </div><div><div></div></div>                <link href="https://csdnimg.cn/release/blogv2/dist/mdeditor/css/editerView/markdown_views-d7a94ec6ab.css" rel="stylesheet">                <link href="https://csdnimg.cn/release/blogv2/dist/mdeditor/css/style-ba784fbaf8.css" rel="stylesheet">        </div><p>转载了别人的转载怎么办呢。。。那就再加一个吧</p><p>转载来源：<a href="https://blog.csdn.net/bolu1234/article/details/51867099">https://blog.csdn.net/bolu1234/article/details/51867099</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div id=&quot;article_content&quot; class=&quot;article_content clearfix&quot;&gt;
+        &lt;link rel=&quot;stylesheet&quot; href=&quot;https://csdnimg.cn/release/blogv2/dist/mded</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="博客写作" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="博客转载" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>为hexo搭建方便写作的功能</title>
     <link href="https://hezi-ywt.github.io/2020/12/15/%E4%B8%BAhexo%E6%90%AD%E5%BB%BA%E6%96%B9%E4%BE%BF%E5%86%99%E4%BD%9C%E7%9A%84%E5%8A%9F%E8%83%BD-1/"/>
     <id>https://hezi-ywt.github.io/2020/12/15/%E4%B8%BAhexo%E6%90%AD%E5%BB%BA%E6%96%B9%E4%BE%BF%E5%86%99%E4%BD%9C%E7%9A%84%E5%8A%9F%E8%83%BD-1/</id>
     <published>2020-12-15T13:07:00.000Z</published>
-    <updated>2020-12-15T13:27:01.047Z</updated>
+    <updated>2020-12-15T14:24:19.519Z</updated>
     
-    <content type="html"><![CDATA[<h6 id="使用了hexo"><a href="#使用了hexo" class="headerlink" title="使用了hexo"></a>使用了hexo</h6>]]></content>
+    <content type="html"><![CDATA[<h3 id="hexo-admin管理blog文件"><a href="#hexo-admin管理blog文件" class="headerlink" title="hexo-admin管理blog文件"></a>hexo-admin管理blog文件</h3><p>使用了hexo-admin来管理和写作，能够有更加好的体验，再也不用直接码.md文件了，并且在hexo可以实现实时的渲染，方便我这样只是为了使用的小白能好好的看我写的和想的有没有不同~</p><p>&lt;—&gt;</p><h5 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h5><p>首先是安装，在blog文件所在页git bush，输入<br><code>npm install --save hexo-admin </code><br>进行安装</p><h5 id="打开使用"><a href="#打开使用" class="headerlink" title="打开使用"></a>打开使用</h5><p>输入<br><code>hexo sever -d</code><br>建立本地admin编辑网站</p><p>然后打开自己本地网页地址：<a href="http://localhost:4000/admin/">http://localhost:4000/admin/</a> 进行编辑，编辑完之后<code>ctrl c</code>，你在admin页面上的编辑会写入到你的本地文件中，停止后再清理生成发布即可。</p><h5 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h5><ul><li>hexo-admin官方文档：<a href="https://github.com/jaredly/hexo-admin">https://github.com/jaredly/hexo-admin</a></li><li>使用 hexo-admin 後台管理工具：<a href="https://ed521.github.io/2019/08/hexo-admin/">https://ed521.github.io/2019/08/hexo-admin/</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h6 id=&quot;使用了hexo&quot;&gt;&lt;a href=&quot;#使用了hexo&quot; class=&quot;headerlink&quot; title=&quot;使用了hexo&quot;&gt;&lt;/a&gt;使用了hexo&lt;/h6&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;hexo-admin管理blog文件&quot;&gt;&lt;a href=&quot;#hexo-admin管理blog文件&quot; class=&quot;headerlink&quot; title=&quot;hexo-admin管理blog文件&quot;&gt;&lt;/a&gt;hexo-admin管理blog文件&lt;/h3&gt;&lt;p&gt;使用了hex</summary>
       
     
     
     
-    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="博客写作" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/"/>
+    <category term="博客写作" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/"/>
     
     
-    <category term="博客" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客搭建" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
-    <category term="hexo写作" scheme="https://hezi-ywt.github.io/tags/hexo%E5%86%99%E4%BD%9C/"/>
+    <category term="hexo-admin" scheme="https://hezi-ywt.github.io/tags/hexo-admin/"/>
     
   </entry>
   
@@ -49,7 +76,7 @@
     <link href="https://hezi-ywt.github.io/2020/12/14/day1/"/>
     <id>https://hezi-ywt.github.io/2020/12/14/day1/</id>
     <published>2020-12-14T13:10:43.000Z</published>
-    <updated>2020-12-14T13:30:49.557Z</updated>
+    <updated>2020-12-15T14:21:26.555Z</updated>
     
     <content type="html"><![CDATA[<p>今天我在昨天搭建的雏形下，主要完成以下任务：</p><p>设计了自己的版面风格，更换背景配图及颜色<br>RGB颜色对照标： <a href="https://tool.oschina.net/commons?type=3">https://tool.oschina.net/commons?type=3</a><br>图片资源：<br>壁纸<br><a href="https://wallpaperhub.app/">https://wallpaperhub.app/</a><br><a href="https://wallhaven.cc/w/2em38y">https://wallhaven.cc/w/2em38y</a><br><a href="https://unsplash.com/">https://unsplash.com/</a><br>logo：</p><p>学习实现了分类和标签功能<br>用hexo new page tags 指令后，在source下的md文件中添加layout: tags<br>其他类似<br>功能实现要在先文章先的front-matter中使用相应指令</p><p>添加了评论功能<br>参考：hexo-fluid添加utterances评论功能  <a href="https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/">https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</a></p><p>参考<br>搭建主线：<a href="https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/">https://ryanluoxu.github.io/2017/11/24/%E7%94%A8-Hexo-%E5%92%8C-GitHub-Pages-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</a><br>主题fluid配置：<a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a><br>hexo操作：<a href="https://hexo.io/zh-cn/docs/writing">https://hexo.io/zh-cn/docs/writing</a><br>hexo-fluid添加utterances评论功能 <a href="https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/">https://liaoyq.club/2020/04/03/hexo-fluid%E6%B7%BB%E5%8A%A0utterances%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/</a></p>]]></content>
     
@@ -62,7 +89,9 @@
     
     
     
-    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
     <category term="博客搭建" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
@@ -74,7 +103,7 @@
     <link href="https://hezi-ywt.github.io/2020/12/13/hello-world/"/>
     <id>https://hezi-ywt.github.io/2020/12/13/hello-world/</id>
     <published>2020-12-13T11:37:50.000Z</published>
-    <updated>2020-12-14T13:30:40.840Z</updated>
+    <updated>2020-12-15T14:21:14.859Z</updated>
     
     <content type="html"><![CDATA[<p>身为小白的我第一次使用github上的包，在憋了一天后有了初步的BLOG雏形，但是值得做的事情都是能让你愿意一步一步来的。</p>]]></content>
     
@@ -87,7 +116,9 @@
     
     
     
-    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="博客搭建" scheme="https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
     <category term="博客搭建" scheme="https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
