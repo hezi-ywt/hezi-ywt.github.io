@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hezi-ywt.github.io/2020/12/16/TYpora/</loc>
+    
+    <lastmod>2020-12-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/2020/12/16/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</loc>
+    
+    <lastmod>2020-12-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hezi-ywt.github.io/2020/12/15/%E8%BD%AC%E8%BD%BD/</loc>
     
     <lastmod>2020-12-16</lastmod>
@@ -73,6 +87,34 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/tags/typora/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -91,6 +133,27 @@
   
   <url>
     <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A6%82%E8%BF%B0/</loc>
     <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
