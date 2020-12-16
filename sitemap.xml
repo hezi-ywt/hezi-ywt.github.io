@@ -4,7 +4,7 @@
   <url>
     <loc>https://hezi-ywt.github.io/2020/12/15/%E8%BD%AC%E8%BD%BD/</loc>
     
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     
   </url>
   
@@ -46,7 +46,7 @@
 
   <url>
     <loc>https://hezi-ywt.github.io/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,21 +54,21 @@
   
   <url>
     <loc>https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hezi-ywt.github.io/tags/hexo-admin/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hezi-ywt.github.io/tags/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E8%BD%BD/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,21 +77,21 @@
   
   <url>
     <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-12-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hezi-ywt.github.io/categories/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2020-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
